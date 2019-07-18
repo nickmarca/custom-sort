@@ -1,0 +1,16 @@
+{
+  "name": "hacker_rank_exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customSort.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12",
+    "jest": "^24.8.0"
+  }
+}
